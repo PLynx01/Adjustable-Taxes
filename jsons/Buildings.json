@@ -1,25 +1,26 @@
-[
+[	
+	// Level 1
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Tax Level 1",
+		"cost": 0,
+		"uniques": [
+			"Unbuildable",
+			"Cannot be purchased",
+			
+		]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+
+		"name": "Raise Taxes"
 	}
+	
+	// Level 2
+	{
+
+	}
+	// Level 3
+	// Level 4
+	// Level 5
+	// Level 6
+
 ]
